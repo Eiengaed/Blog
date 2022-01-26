@@ -1,0 +1,20 @@
+.header{
+ display: flex;
+ background-color: rgb(3, 3, 44);
+ box-shadow: 0px 0px 10px yellow;
+ padding: 20px;
+ grid-area: hd;
+ justify-content: center;
+ letter-spacing: 1px;
+}
+
+.header a{
+ color: rgb(194, 230, 113);
+ text-decoration: none;
+ margin: 5px;
+}
+
+.header a:hover{
+ background-color: rgba(156, 49, 0, 0.993);
+ display: inline-block;
+}

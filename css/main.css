@@ -1,0 +1,5 @@
+.main{
+ background-color: tomato;
+ grid-area: main;
+ text-align: center;
+}
